@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Varela</h1>
 <h3 align="center">Postdoc in Artificial Intelligence and Protein Design at Lund University</h3>
 
-- 🔭 I’m currently working on **protein design, protein structure prediction and/or protein docking**
+- 🔭 I’m currently working on **protein design, protein structure prediction and protein-protein docking**
 
 - 🌱 I’m currently learning **Tensorflow, Keras, PyTorch and Evolutionary Algorithms**
 
