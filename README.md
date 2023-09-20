@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **computational protein structure problems and evolutionary algorithms**
 
-- 📫 Reach me at **daniel.varela@biochemistry.lu.se** or 
+- 📫 Reach me at **daniel.varela@udc.es** or 
 <a href="https://www.linkedin.com/in/daniel-varela-miguens/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@6.4.0/icons/linkedin.svg" alt="LinkedIn - Daniel Varela" height="20" width="30" margin="100px" display="inline-block"/> LinkedIn profile</a>
 
 - 📄 Know about my publications [https://orcid.org/0000-0001-7799-0119](https://orcid.org/0000-0001-7799-0119)
